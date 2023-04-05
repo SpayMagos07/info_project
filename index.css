@@ -1,0 +1,35 @@
+body{
+    background-color: #0505aa;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+img{
+    width: 75%;
+}
+
+button{
+    background-color: #fff;
+    border: none;
+    color: #0505aa;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+button:hover{
+    background-color: black;
+    color: #fff;
+}
